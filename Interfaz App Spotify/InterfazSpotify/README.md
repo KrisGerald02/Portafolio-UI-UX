@@ -2,4 +2,4 @@
 ui
 
 ```markdown
-![Descripción de la imagen](/Users/kristelgeraldinevillaltaporras/Desktop)
+![Descripción de la imagen](/Users/kristelgeraldinevillaltaporras/Desktop/foto.png)
