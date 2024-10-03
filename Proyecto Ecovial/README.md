@@ -23,3 +23,4 @@ Kristel Geraldine Villalta Porras y Carlos Alfredo Abea
 <img src="https://github.com/user-attachments/assets/cb5a0fe1-9bfa-4ed1-a946-da9d23a5758b" alt="Simulator Screenshot - iPhone 16 Pro"width="300" />
 <img src="https://github.com/user-attachments/assets/cf325f92-a5f1-4e3f-9791-33928045c0e6" alt="Simulator Screenshot - iPhone 16 Pro"width="300" />
 <img src="https://github.com/user-attachments/assets/0254366c-23cb-41c8-9d29-743f14f65498" alt="Simulator Screenshot - iPhone 16 Pro" width="300" />
+<img src="https://github.com/user-attachments/assets/2c61a809-e61d-42b0-a649-f321debe919d" alt="Simulator Screenshot - iPhone 16 Pro - 2024-10-02 at 23 04 58" alt="Simulator Screenshot - iPhone 16 Pro" width="300" />
