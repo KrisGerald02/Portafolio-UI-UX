@@ -1,2 +1,2 @@
-# Portafolio-IOS
-Bienvenido a mi portafolio de aplicaciones iOS, donde muestro proyectos que destacan mis habilidades en el desarrollo para dispositivos Apple. 
+# Portafolio UI/UX
+Bienvenido a mi portafolio de UX/UI, me enfoco en diseñar interfaces de usuario interactivas :)
