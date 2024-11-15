@@ -1,0 +1,66 @@
+
+/* Variables de colores */
+
+:root{
+    --verdePrimario: #177E89;
+    --verdeSecundario: #39949e;
+    --salmon: #FEC3A6;
+    --oscuro: #343435;
+    --claro: #fafafa;
+}
+
+/* Fin variables de colores */
+
+/* ESTILOS GENERALES */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Reem Kufi', sans-serif;
+    letter-spacing: 0.1em;
+}
+
+body{
+    /* overflow: hidden; */
+}
+
+.contenedor-general{
+    display: flex;
+    flex-flow: column nowrap;
+    width: 100%;
+}
+
+.sin-estilo{
+    text-decoration: none;
+    list-style: none;
+}
+
+.titular{
+    font-size: 2rem;
+    padding-top: 10%;
+    color: var(--oscuro);
+}
+
+
+.bajada{
+    font-size: 1rem;
+    width: 50vw;
+    color: var(--oscuro);
+}
+
+/* FIN ESTILOS GENERALES */
+
+/* INICIO AJUSTES RESPONSIVE */
+
+@media(max-width:500px){
+    .titular{
+        font-size: 1.5rem;
+    }
+
+    .bajada{
+        font-size: 0.9rem;
+    }
+}
+
+/* FIN AJUSTES RESPONSIVE */

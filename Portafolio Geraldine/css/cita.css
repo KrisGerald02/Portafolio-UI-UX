@@ -1,0 +1,72 @@
+/* INICIO ESTILOS CITA */
+
+.cita{
+    background-color: #177E89;
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+    color: #FAFAFA;
+}
+
+.contenedor-cita{
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+.contenedor-cita i{
+    font-size: 5rem;
+    color: #FAFAFA;
+}
+
+.contenedor-cita blockquote{
+    display: flex;
+    flex-flow: column wrap;
+    text-align: center;
+    font-size: 1.2rem;
+    width: 70vw;
+}
+
+.contenedor-cita h3{
+font-size: 1rem;
+}
+
+/* FIN ESTILOS CITA */
+
+/* INICIO AJUSTES RESPONSIVE */
+
+@media(max-width:850px){
+
+    .cita{
+        height: 50vh;
+    }
+
+    .contenedor-cita i{
+        font-size: 3rem;
+    }
+
+    .contenedor-cita blockquote{
+        font-size: 0.9rem;
+    }
+
+    .contenedor-cita h3{
+        font-size: 0.7rem;
+    }
+
+}
+
+@media (orientation: landscape) and (max-width:1050px){
+    .contenedor-cita{
+        height: 80vh;
+    }
+}
+
+/* FIN AJUSTES RESPONSIVE */

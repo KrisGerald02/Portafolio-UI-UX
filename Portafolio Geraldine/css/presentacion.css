@@ -1,0 +1,124 @@
+
+/* ESTILOS PRESENTACIÓN */
+
+.presentacion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--claro);
+    height: 100vh;
+    width: 100%;
+    /* box-sizing: border-box; */
+}
+
+.presentacion-sobremi{
+    width: 50%;
+    display: flex;
+    flex-flow: column nowrap;
+    margin-left: 15%;
+}
+
+.presentacion-sobremi p{
+    font-size: 1.2rem;
+    color: var(--oscuro);
+    margin-top: 4%;
+}
+.presentacion-sobremi h2{
+    font-size: 1.6rem;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: var(--oscuro);
+    margin-bottom: 4%;
+}
+
+
+.presentacion-sobremi h1{
+    color: var(--verdePrimario);
+    font-size: 2.9rem;
+    font-family: 'Merriweather Sans', sans-serif;
+    letter-spacing: 0;
+}
+
+.presentacion-sobremi button{
+    outline-style: none;
+    width: 170px;
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    background-color: #177E89;
+    font-size: 0.8em;
+    padding: 10px 30px;
+    margin-top: 7%;
+} 
+
+.presentacion-sobremi button:hover{
+    background-color: var(--verdeSecundario);
+}
+
+.presentacion-sobremi button a, .presentacion-sobremi button a:hover{
+    color: var(--claro);
+}
+
+.presentacion-ilustracion{
+    width: 50%;
+    margin-right: 15%;
+}
+
+.presentacion-ilustracion picture img{
+    width: 100%;
+}
+
+/* INICIO AJUSTES RESPONSIVE */
+
+@media(max-width: 1100px){
+
+    .presentacion{
+        height: auto;
+        flex-flow: column nowrap;
+        align-items: center;
+        justify-content: center;
+        margin-top: 10vh;
+    }
+
+    .presentacion-sobremi{
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding-top: 10%;
+        text-align: center;
+    }
+
+    .presentacion-ilustracion{
+        margin: auto;
+        width: 70%;
+    }
+}
+
+@media(max-width:500px){
+
+    .presentacion-sobremi{
+        width: 65%;
+    }
+
+    .presentacion-sobremi h1{
+        font-size: 1.6rem;
+    }
+
+    .presentacion-sobremi h2, .presentacion-sobremi p{
+        font-size: 1rem;
+        margin-bottom: 5%;
+    }
+
+    .presentacion-sobremi button{
+        width: 120px;
+        height: 40px;
+        font-size: 0.7rem;
+        padding: 2px 10px;    
+    }
+
+    .presentacion-ilustracion{
+        width: 80%;
+    }
+}
+
+/* FIN AJUSTES RESPONSIVE */
