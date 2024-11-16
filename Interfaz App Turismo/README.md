@@ -2,7 +2,8 @@
 <h2>Launcher </h2>
 <img src="https://github.com/user-attachments/assets/e5b711c1-699e-41c7-bd37-1e335eeb7e8c" alt="Simulator Screenshot - iPhone 16 Pro" width="300"/>
 <h2>Log In </h2>
-<img src="https://github.com/user-attachments/assets/e9b285bb-77a8-452c-8b5c-0b8047d55e72" alt="Simulator Screenshot - iPhone 16 Pro - 2024-10-02 at 22 49 27" width="300"/>
+<img src="![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 16 42 40](https://github.com/user-attachments/assets/a8b68c99-3c09-44a0-a5b2-471ee71a045b)
+" width="300"/>
 <h2>Main </h2>
 <img src="https://github.com/user-attachments/assets/01f5001d-b825-462e-8fe5-e5e66c7a7666" alt="Simulator Screenshot - iPhone 16 Pro - 2024-10-02 at 22 49 32" width="300"/>
 <img src="https://github.com/user-attachments/assets/763fb463-ef16-4f52-b472-58474e5889a7" alt="Simulator Screenshot - iPhone 16 Pro"width="300"/>
