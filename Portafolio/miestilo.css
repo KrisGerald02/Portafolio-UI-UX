@@ -1,1 +1,38 @@
-/* Esto es un comentario en CSS */
+/* Fondo*/
+body{
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+
+/* sirve para cambiar el color cuando se pasa el cursor sobre el texto */
+h1:hover{
+    color: rgb(33, 123, 162);
+    font-size: 50px;
+}
+
+h2{
+    color: pink;
+    text-align: center;
+    font-size: 40px;
+}
+
+h3{
+    color: red;;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+}
+.boton{
+    text-decoration: none;
+    /*borde*/
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(33, 123, 162);
+}
